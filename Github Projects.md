@@ -24,7 +24,4 @@
 - Get All Urls - https://github.com/lc/gau
 
 
-```
-
-```
 [Home](https://github.com/BushidoUK/Opensource-tools/)
